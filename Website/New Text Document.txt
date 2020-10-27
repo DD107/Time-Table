@@ -19,3 +19,11 @@ body {
     opacity: 1;
 }
 </style>
+
+
+
+
+
+
+Media Query 
+874x212

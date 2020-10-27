@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 /* Main */
+
 p {
   font-family: 'Quicksand' sans-serif;
   font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;
@@ -24,6 +25,7 @@ table{
   }
 
   /* Navbar */
+
   li {
     display: inline;
   float: left;
@@ -40,7 +42,9 @@ table{
   li a:hover {
     background-color: #111;
   }
-/* Id */
+
+  /* Id */
+
   .dev {
     font-family: 'Quicksand', sans-serif;
     border: 1.5px outset black;
