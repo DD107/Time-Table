@@ -1,0 +1,44 @@
+<html>
+
+      <head>
+      
+           <title>Bio data</title>
+           <meta charset="UTF-8" />
+      </head>
+
+      <body>
+      
+            <table border="8" cellspacing="0" align="center">
+                    <tr><th colspan="3"> STUDENT'S BIODATA</th></tr>     
+                    <tr><th>1</th>
+                        <th>STUDENT'S NAME</th>
+                        <td>Isha Patel</td></tr> 
+                    <tr><th>2</th>
+                        <th>CLASS & SEC. </th>
+                        <td>8'B'</td></tr>
+                    <tr><th>3</th>
+                        <th>ADDMISSION NO. </th>
+                        <td>3813</td></tr>
+                    <tr><th>4</th>
+                        <th>ROLL NO. </th>
+                        <td>8211</td></tr>
+                    <tr><th>5</th>
+                        <th>D.O.B</th>
+                        <td>26.06.2007</td></tr>
+                    <tr><th>6</th>
+                        <th>FATHER'S NAME</th>
+                        <td>Mr. Hemlal Patel</td>
+                    <tr><th>7</th>
+                        <th>MOTHER'S NAME</th>
+                        <td>Mrs. Vimla patel</td></tr>
+                    <tr><th>8</th>
+                        <th>ADDRESS</th>
+                        <td>B-62,SHAKTI NAGAR,GEVRA PROJECT,KORBA DIST. </td></tr>
+                    <tr><th>9</th>
+                        <th>MOBILE NO. </th>
+                        <td>7974630673</td>
+              
+            </table>
+      </body>
+
+</html>

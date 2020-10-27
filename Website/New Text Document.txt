@@ -1,0 +1,21 @@
+<style>
+body {
+  height: 3000px; /* Used to enable scrolling */
+  background: rgb(218,68,83);
+background: linear-gradient(90deg, rgba(218,68,83,1) 23%, rgba(168,192,255,1) 51%, rgba(255,140,0,1) 84%);
+}
+</style>
+
+
+
+
+
+<style>
+body {
+  background-image: url('95244.jpg');
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 1;
+}
+</style>
