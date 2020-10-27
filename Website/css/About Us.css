@@ -1,0 +1,66 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+/* Main */
+p {
+  font-family: 'Quicksand' sans-serif;
+  font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;
+}
+table{
+  border: #111 3px solid;
+  margin: auto ;
+  padding: 3%;
+  font-weight: 300;
+  color: rgb(255 255 255);
+}
+ ul {
+    list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #212F3C;
+  }
+
+  /* Navbar */
+  li {
+    display: inline;
+  float: left;
+  color: #DC7633;
+  border-right: 1px solid #bbb;
+  }
+  li a {
+    display: block;
+    color: #FFFF66 ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+/* Id */
+  .dev {
+    font-family: 'Quicksand', sans-serif;
+    border: 1.5px outset black;
+    background: rgb(255,175,189);
+  background: linear-gradient(90deg, rgba(255,175,189,1) 28%, rgba(255,195,160,1) 69%);
+  border: 1.5px outset black;
+  }
+
+
+  .mot {
+    font-family: 'Quicksand', sans-serif;
+    border: 1.5px outset black;
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    color: #111;
+    font-weight: 500;
+    margin: auto;
+    padding: 25px;
+  }
+  .active {
+    background-color: #4CAF50;}
+
+</style>
