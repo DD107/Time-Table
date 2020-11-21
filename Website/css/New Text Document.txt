@@ -1,0 +1,18 @@
+<head>
+<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+<style>
+p{ font-family: 'Raleway', sans-serif;
+font-size: 16px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+table{
+  border-radius: 3px;
+  font-family: 'Quicksand', sans-serif;
+  font-size:  19px;
+  padding: 2%;
+  margin-left: 12px;
+</style>
+</head>
+<body>
+
+</body>
