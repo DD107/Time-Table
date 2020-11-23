@@ -10,15 +10,7 @@ background: linear-gradient(90deg, rgba(218,68,83,1) 23%, rgba(168,192,255,1) 51
 
 
 
-<style>
-body {
-  background-image: url('95244.jpg');
-  background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    opacity: 1;
-}
-</style>
+
 
 
 
