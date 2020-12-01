@@ -8,13 +8,17 @@ style
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;1,300;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mali:ital@1&display=swap');
 /* The Main stuff. */
+
 p {
   color: navy blue;
 }
 ul {
   list-style-type: none;
- margin: 0;
- padding: 0;
+  margin-top: -8px;
+  margin-left: -8px ;
+  margin-right: -8px;
+  margin-bottom: auto;
+ padding: 0px;
  overflow: hidden;
  background-color: #212F3C;
 }
@@ -40,34 +44,41 @@ font-family: 'Raleway',sans-serif;
 #title {
   color: black;
  font-family:'Raleway',sans-serif;
- border: 1.5px outset black;
+ border: 1.5px outset white;
  background: linear-gradient(90deg, rgba(218,241,58,1) 9%, rgba(63,238,113,1) 30%, rgba(32,235,255,1) 52%, rgba(253,187,45,1) 98%);
 margin-left: 2px;
 margin-right: 2px;
 }
 #high {
   font-family: 'Quicksand', sans-serif;
-  border: 1.5px outset black;
-margin-left: -5px;
-margin-right: -5px;
+  border: 1.5px outset white;
+  margin-left: -5px;
+  margin-right: -5px;
 }
 #mid {
   font-family: 'Quicksand', sans-serif;
-  border: 1.5px outset black;
+  border: 1.5px outset white;
   margin-left: -5px;
   margin-right: -5px;
 }
 #pre {
   font-family: 'Quicksand', sans-serif;
-  border: 1.5px outset black;
+  border: 1.5px outset white;
   margin-left: -5px;
   margin-right: -5px;
 }
 #pri {
   font-family: 'Quicksand', sans-serif;
-  border: 1.5px outset black;
+  border: 1.5px outset white;
   margin-left: -5px;
   margin-right: -5px;
+}
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8%;
+  height: 12%;
 }
 /* Navbar */
 li {
@@ -95,18 +106,22 @@ a:link {
   text-decoration: none;
   font-size: 16px;
   font-weight: 500;
+  font-family: 'Quicksand', sans-serif;
 }
 
 a:visited {
   color:#21618C;
   background-color: transparent;
   text-decoration: none;
+  font-family: 'Quicksand', sans-serif;
 }
 
 a:hover {
   color:#348376;
   background-color: transparent;
   text-decoration: underline;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16.436px;
 }
 
 a:active {
@@ -129,6 +144,7 @@ a:active {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  margin: 0cm;
 }
 
 /* The dropdown container */
@@ -202,6 +218,7 @@ a:active {
   color:#833448;
   background-color: transparent;
   text-decoration: none;
+  font-family: 'Quicksand', sans-serif;
 }
 .link:hover {
   color:#58D68D ;

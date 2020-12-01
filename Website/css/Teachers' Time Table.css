@@ -30,6 +30,13 @@ margin-left: 2px;
 margin-right: 2px;
 padding: 10px;
 }
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8%;
+  height: 12%;
+  }
 
 
 /* Navbar */
