@@ -46,16 +46,18 @@ table{
 
   /* Id */
 
-  .dev {
+  #dev {
     font-family: 'Quicksand', sans-serif;
     border: 1.5px outset black;
     background: rgb(255,175,189);
   background: linear-gradient(90deg, rgba(255,175,189,1) 28%, rgba(255,195,160,1) 69%);
   border: 1.5px outset black;
+  color: #111;
+  font-weight: bolder;
   }
 
 
-  .mot {
+  #mot {
     font-family: 'Quicksand', sans-serif;
     border: 1.5px outset black;
     background-color: #00DBDE;
@@ -65,7 +67,15 @@ table{
     margin: auto;
     padding: 25px;
   }
+  #logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+    height: 10%;
+    }
   .active {
     background-color: #4CAF50;}
+
 
 style
